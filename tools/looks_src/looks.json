@@ -1,0 +1,82 @@
+{
+  "looks": [
+    {
+      "id": "slate-pro", "kind": "standard", "name": "Slate Pro",
+      "description": "Cool slate with a sky-blue accent and a thin top bar. Clear and steady for lectures.",
+      "defaultTheme": "slate-dark",
+      "themes": {
+        "slate-dark":  {"fh": "Calibri", "fb": "Calibri", "colors": {"bg": "1E293B", "ink": "F1F5F9", "muted": "94A3B8", "accent": "38BDF8", "soft": "273449", "onAccent": "0B1220"}},
+        "slate-light": {"fh": "Calibri", "fb": "Calibri", "colors": {"bg": "F8FAFC", "ink": "0F172A", "muted": "475569", "accent": "0284C7", "soft": "E2E8F0", "onAccent": "FFFFFF"}}
+      },
+      "deco": {"bar": "top", "frame": false, "footer": "number"},
+      "layouts": [["Title left", "titleLeft"], ["Photo right", "photoRight"], ["Cards", "cards"], ["Two columns", "twoCol"], ["Chapter", "chapter"], ["Closing", "closing"]],
+      "types": {"title": 0, "chapter": 4, "closing": 5},
+      "content": [1, 2, 3]
+    },
+    {
+      "id": "paper-notes", "kind": "standard", "name": "Paper Notes",
+      "description": "Soft paper tone, serif type and a thin frame. Feels like a well-kept notebook.",
+      "defaultTheme": "paper",
+      "themes": {
+        "paper": {"fh": "Georgia", "fb": "Georgia", "colors": {"bg": "F5EFE6", "ink": "3B2A1A", "muted": "6B5642", "accent": "B5651D", "soft": "EADFCB", "onAccent": "FFFFFF"}},
+        "ink":   {"fh": "Georgia", "fb": "Georgia", "colors": {"bg": "1F1A14", "ink": "F3E9D8", "muted": "BFAE94", "accent": "E0A15A", "soft": "2B241B", "onAccent": "1F1A14"}}
+      },
+      "deco": {"bar": "none", "frame": true, "footer": "number"},
+      "layouts": [["Statement", "statement"], ["Photo left", "photoLeft"], ["Photo backdrop", "backdrop"], ["Two columns", "twoCol"], ["Chapter", "chapter"], ["Closing", "closing"]],
+      "types": {"title": 0, "chapter": 4, "closing": 5},
+      "content": [1, 2, 3]
+    },
+    {
+      "id": "mint-classroom", "kind": "standard", "name": "Mint Classroom",
+      "description": "Fresh mint and green with a side bar. Friendly and readable for teaching decks.",
+      "defaultTheme": "mint",
+      "themes": {
+        "mint":  {"fh": "Arial", "fb": "Arial", "colors": {"bg": "ECFDF5", "ink": "064E3B", "muted": "047857", "accent": "059669", "soft": "D1FAE5", "onAccent": "FFFFFF"}},
+        "chalk": {"fh": "Arial", "fb": "Arial", "colors": {"bg": "14532D", "ink": "F0FDF4", "muted": "BBF7D0", "accent": "86EFAC", "soft": "1B6B3A", "onAccent": "052E16"}}
+      },
+      "deco": {"bar": "left", "frame": false, "footer": "number"},
+      "layouts": [["Title left", "titleLeft"], ["Photo right", "photoRight"], ["Cards", "cards"], ["Photo left", "photoLeft"], ["Chapter", "chapter"], ["Closing", "closing"]],
+      "types": {"title": 0, "chapter": 4, "closing": 5},
+      "content": [1, 2, 3]
+    },
+    {
+      "id": "midnight-gold", "kind": "static", "name": "Midnight Gold",
+      "description": "Deep midnight with a gold rule and a fine frame. Calm and premium.",
+      "defaultTheme": "midnight",
+      "themes": {
+        "midnight": {"fh": "Palatino Linotype", "fb": "Palatino Linotype", "colors": {"bg": "0B0B12", "ink": "F4EFE0", "muted": "A8A290", "accent": "D4AF37", "soft": "17171F", "onAccent": "0B0B12"}},
+        "ivory":    {"fh": "Palatino Linotype", "fb": "Palatino Linotype", "colors": {"bg": "FBF7EA", "ink": "2A2415", "muted": "6B5F3F", "accent": "9A7410", "soft": "F0E8CE", "onAccent": "FFFFFF"}}
+      },
+      "deco": {"bar": "none", "frame": true, "footer": "number"},
+      "layouts": [["Statement", "statement"], ["Photo backdrop", "backdrop"], ["Photo right", "photoRight"], ["Two columns", "twoCol"], ["Chapter", "chapter"], ["Closing", "closing"]],
+      "types": {"title": 0, "chapter": 4, "closing": 5},
+      "content": [1, 2, 3]
+    },
+    {
+      "id": "sunrise-pop", "kind": "static", "name": "Sunrise Pop",
+      "description": "Warm cream and orange with a bold side bar. Upbeat for creators and kids' content.",
+      "defaultTheme": "sunrise",
+      "themes": {
+        "sunrise": {"fh": "Arial", "fb": "Arial", "colors": {"bg": "FFF7ED", "ink": "7C2D12", "muted": "9A3412", "accent": "EA580C", "soft": "FFEDD5", "onAccent": "FFFFFF"}},
+        "dusk":    {"fh": "Arial", "fb": "Arial", "colors": {"bg": "3B0F2A", "ink": "FFEDD5", "muted": "FDBA74", "accent": "FB923C", "soft": "4E1838", "onAccent": "3B0F2A"}}
+      },
+      "deco": {"bar": "left", "frame": false, "footer": "number"},
+      "layouts": [["Title left", "titleLeft"], ["Cards", "cards"], ["Photo backdrop", "backdrop"], ["Photo left", "photoLeft"], ["Chapter", "chapter"], ["Closing", "closing"]],
+      "types": {"title": 0, "chapter": 4, "closing": 5},
+      "content": [1, 2, 3]
+    },
+    {
+      "id": "ink-and-rose", "kind": "static", "name": "Ink and Rose",
+      "description": "Near-black with a rose accent, or a soft blush variant. Modern and editorial.",
+      "defaultTheme": "ink",
+      "themes": {
+        "ink":   {"fh": "Georgia", "fb": "Arial", "colors": {"bg": "18181B", "ink": "FAFAFA", "muted": "A1A1AA", "accent": "FB7185", "soft": "27272A", "onAccent": "18181B"}},
+        "blush": {"fh": "Georgia", "fb": "Arial", "colors": {"bg": "FFF1F2", "ink": "4C0519", "muted": "9F1239", "accent": "E11D48", "soft": "FFE4E6", "onAccent": "FFFFFF"}}
+      },
+      "deco": {"bar": "top", "frame": false, "footer": "none"},
+      "layouts": [["Statement", "statement"], ["Photo right", "photoRight"], ["Two columns", "twoCol"], ["Photo backdrop", "backdrop"], ["Chapter", "chapter"], ["Closing", "closing"]],
+      "types": {"title": 0, "chapter": 4, "closing": 5},
+      "content": [1, 2, 3]
+    }
+  ]
+}

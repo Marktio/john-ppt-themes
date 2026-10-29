@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "templates": [
+    {
+      "id": "soft-lilac",
+      "name": "Soft Lilac",
+      "description": "Gentle lilac with warm violet accents. Friendly and calm for classroom and wellbeing decks.",
+      "author": "VOL PPT",
+      "kind": "theme",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/Marktio/john-ppt-themes@main/themes/soft-lilac.zip",
+      "sha256": "14630df3df69714f42d50af467c4322ffa1bb3b3ea781572aae6fc5a3565ca33",
+      "sizeBytes": 579,
+      "minAppVersion": "1.0.0"
+    },
+    {
+      "id": "mint-classroom",
+      "name": "Mint Classroom",
+      "description": "Fresh mint and green with a side bar. Friendly and readable for teaching decks.",
+      "author": "VOL PPT",
+      "kind": "standard",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/Marktio/john-ppt-themes@main/looks/standard/mint-classroom.zip",
+      "sha256": "a365ddf523c41e146b98d1fdd7e074bf9d2e9e31a3d0fbee15b94e72f72defd1",
+      "sizeBytes": 33776,
+      "minAppVersion": "1.0.0",
+      "previewImageUrl": "https://cdn.jsdelivr.net/gh/Marktio/john-ppt-themes@main/looks/standard/mint-classroom.png"
+    },
+    {
+      "id": "paper-notes",
+      "name": "Paper Notes",
+      "description": "Soft paper tone, serif type and a thin frame. Feels like a well-kept notebook.",
+      "author": "VOL PPT",
+      "kind": "standard",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/Marktio/john-ppt-themes@main/looks/standard/paper-notes.zip",
+      "sha256": "f462a5cba0c8a84deaa3d0db15cb18847d4c2308ad64664c11b7ddbe28827307",
+      "sizeBytes": 38611,
+      "minAppVersion": "1.0.0",
+      "previewImageUrl": "https://cdn.jsdelivr.net/gh/Marktio/john-ppt-themes@main/looks/standard/paper-notes.png"
+    },
+    {
+      "id": "slate-pro",
+      "name": "Slate Pro",
+      "description": "Cool slate with a sky-blue accent and a thin top bar. Clear and steady for lectures.",
+      "author": "VOL PPT",
+      "kind": "standard",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/Marktio/john-ppt-themes@main/looks/standard/slate-pro.zip",
+      "sha256": "62a44c7eebbea1236fc1e24c741b9649a0a32ee14ee0134d9d41242fb3bdab0f",
+      "sizeBytes": 30268,
+      "minAppVersion": "1.0.0",
+      "previewImageUrl": "https://cdn.jsdelivr.net/gh/Marktio/john-ppt-themes@main/looks/standard/slate-pro.png"
+    },
+    {
+      "id": "ink-and-rose",
+      "name": "Ink and Rose",
+      "description": "Near-black with a rose accent, or a soft blush variant. Modern and editorial.",
+      "author": "VOL PPT",
+      "kind": "static",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/Marktio/john-ppt-themes@main/looks/static/ink-and-rose.zip",
+      "sha256": "6671188f93d3dad1fa987e04067528dd5244e7aa9140d61a5fd9c59f19e5085d",
+      "sizeBytes": 33572,
+      "minAppVersion": "1.0.0",
+      "previewImageUrl": "https://cdn.jsdelivr.net/gh/Marktio/john-ppt-themes@main/looks/static/ink-and-rose.png"
+    },
+    {
+      "id": "midnight-gold",
+      "name": "Midnight Gold",
+      "description": "Deep midnight with a gold rule and a fine frame. Calm and premium.",
+      "author": "VOL PPT",
+      "kind": "static",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/Marktio/john-ppt-themes@main/looks/static/midnight-gold.zip",
+      "sha256": "efaa003f3ece7ea6a4952372e840a478aa91725ccc630ba667b45c57f702ca4d",
+      "sizeBytes": 31930,
+      "minAppVersion": "1.0.0",
+      "previewImageUrl": "https://cdn.jsdelivr.net/gh/Marktio/john-ppt-themes@main/looks/static/midnight-gold.png"
+    },
+    {
+      "id": "sunrise-pop",
+      "name": "Sunrise Pop",
+      "description": "Warm cream and orange with a bold side bar. Upbeat for creators and kids' content.",
+      "author": "VOL PPT",
+      "kind": "static",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/Marktio/john-ppt-themes@main/looks/static/sunrise-pop.zip",
+      "sha256": "7630f207df0aac0455f415f7b8c50a3d62473cf720606542cd6de1d0bc5cb37f",
+      "sizeBytes": 30077,
+      "minAppVersion": "1.0.0",
+      "previewImageUrl": "https://cdn.jsdelivr.net/gh/Marktio/john-ppt-themes@main/looks/static/sunrise-pop.png"
+    }
+  ]
+}
